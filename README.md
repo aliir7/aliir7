@@ -23,7 +23,7 @@ Alongside front-end expertise, I’m actively working with the **MERN Stack** to
 ### 🚧 Currently Working On
 - 🔭 **Anima Home**  
   A modern, responsive **React / Next.js** web application for interior design and property listings.  
-  Currently expanding the project toward a **MERN-based architecture**, including backend APIs, authentication, and database integration.
+  Currently expanding the project
 
 ---
 
