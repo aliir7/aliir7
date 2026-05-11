@@ -39,10 +39,12 @@ Alongside front-end expertise, I’m actively working with the **MERN Stack** to
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn-ui-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### ⚙️ Backend (MERN – Actively Using & Improving)
+#### ⚙️ Backend (MERN & PERN – Actively Using & Improving)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Postgres](https://img.shields.io/badge/Postgres-47A248?style=for-the-badge&logo=postgres&logoColor=white
 
 - RESTful API Development  
 - JWT Authentication & Authorization  
