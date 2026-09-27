@@ -1,213 +1,131 @@
-<!-- HERO SECTION -->
+# Hi 👋, I'm Ali Rezaei
 
-<h1 align="center">Hi 👋, I'm Ali Rezaei</h1>
+### Front-End Developer | React, Next.js & TypeScript
 
-<h3 align="center">
-Front-End Developer | React, Next.js & TypeScript
-</h3>
+I’m a self-taught web developer focused on building modern, scalable and user-friendly web applications.
 
-<p align="center">
-Building modern, scalable, and high-performance web applications with a strong focus on user experience, clean architecture, and maintainable code.
-</p>
-
-<p align="center">
-  <a href="https://instagram.com/ali_rezaeii7">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://x.com/ali_rezaeii7">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
+I’m currently growing toward **Full-Stack Development**, with a focus on backend development, databases, testing, Docker and production-ready applications.
 
 ---
 
 ## 🚀 About Me
 
-* 🎯 Self-taught Front-End Developer specializing in React and Next.js
-* ⚛️ Passionate about building modern and responsive web applications
-* 🧠 Interested in software architecture, performance optimization, and scalable systems
-* 🔧 Expanding my skills toward Full-Stack development
-* 🌍 Based in Iran
-
-Currently building and maintaining **Anima Home**, a full-stack interior design and furniture platform built with Next.js, TypeScript, PostgreSQL, Drizzle ORM, and Better Auth.
-
-I enjoy transforming complex problems into elegant, responsive, and user-friendly digital experiences.
+* 💻 Front-End Developer with a strong focus on **React, Next.js and TypeScript**
+* 🏗️ Building full-stack applications with **Next.js, PostgreSQL and Drizzle ORM**
+* 🔐 Working with authentication, authorization and secure web application architecture
+* 🌱 Currently improving my **NestJS, Docker, Testing and Backend Development** skills
+* 🧠 Studying **Data Structures & Algorithms**
+* 🌍 Interested in **remote and international opportunities**
 
 ---
 
-## 🚀 Featured Project
+## ⭐ Featured Project
 
 ### 🏠 Anima Home
 
-A full-stack company website and e-commerce platform for interior design and furniture.
+A full-stack company website and e-commerce platform for an interior design and cabinet business.
 
-#### Key Features
+**Built with:**
 
-* User authentication & email verification
-* Phone OTP authentication
-* Password recovery
-* Customer account management
+`Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui`
+`Drizzle ORM` `PostgreSQL` `Better Auth` `Zod`
+
+**Highlights:**
+
+* Full-stack architecture with Next.js App Router
+* Product catalog and e-commerce functionality
+* Authentication and authorization
 * Admin dashboard
-* Product management
-* Product variants, pricing & stock management
-* Category management
-* Project gallery management
-* Shopping cart & checkout
-* Order management
-* Coupon management
-* Secure media uploads
-* Server Actions & Route Handlers
-* Responsive Persian RTL UI
+* Role-based access control
+* Server Actions and Route Handlers
+* PostgreSQL database with Drizzle ORM
+* Object storage for media
+* Form validation with Zod
+* Responsive RTL/Persian UI
+* Security-focused backend implementation
 
-#### Tech Stack
-
-* Next.js 16
-* React 19
-* TypeScript
-* PostgreSQL
-* Drizzle ORM
-* Better Auth
-* Tailwind CSS
-* shadcn/ui
-* Zod
-* React Hook Form
-
-🔗 Live Demo: https://anima-home.ir
-
-🔗 Repository: https://github.com/aliir7/anima-home
+🔗 **Live:** https://anima-home.ir
+🔗 **Repository:** https://github.com/aliir7/anima-home
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### 🎨 Frontend
+### Frontend
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge\&logo=redux\&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge\&logo=reactquery\&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=react-router\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
+`React` `Next.js` `TypeScript` `JavaScript`
+`HTML` `CSS` `Tailwind CSS` `shadcn/ui`
 
----
+### Backend
 
-### ⚙️ Backend & Full-Stack
+`Node.js` `Express` `NestJS`
+`Next.js Server Actions` `REST APIs`
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+### Database
 
-#### Backend Skills
+`PostgreSQL` `Drizzle ORM` `MongoDB` `Mongoose`
 
-* REST API Development
-* Authentication & Authorization
-* JWT Authentication
-* PostgreSQL Database Design & Integration
-* MongoDB & Mongoose
-* Server-side Validation
-* Error Handling
-* Server Actions
-* Route Handlers
+### Tools & DevOps
 
----
+`Git` `GitHub` `Docker` `Linux` `CI/CD`
 
-### 🗄️ Database & ORM
+### Other
 
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle-2D3748?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+`Zod` `React Hook Form` `Better Auth` `JWT` `Redis`
 
 ---
 
 ## 🌱 Currently Improving
 
-* Docker
-* Testing with Vitest & React Testing Library
-* CI/CD Workflows
-* NestJS
-* Scalable Backend Architecture
-* Software Design Patterns
-* Clean Code Principles
+* Backend Development with **NestJS**
+* REST API Architecture
+* PostgreSQL & Database Design
+* Authentication & Authorization
+* Docker & Containerization
+* Automated Testing
+* CI/CD
 * Data Structures & Algorithms
+* English — currently working toward **B1/B2**
 
 ---
 
-## 💼 Open To Work
+## 📌 What I'm Looking For
 
-I am open to:
-
-* ✅ Front-End Developer — React / Next.js
-* ✅ Junior Full-Stack Developer
-* ✅ Remote Opportunities
-* ✅ International Collaboration
-* ✅ Relocation Opportunities
-
-If you're looking for a developer who values clean UI, performance, maintainability, and continuous learning, let's connect 🚀
+I’m open to opportunities where I can contribute as a **Junior/Mid-Level Front-End or Full-Stack Developer**, work with experienced teams, and continue growing through real-world projects.
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Selected Projects
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aliir7&show_icons=true&theme=dark&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
+### 🏠 Anima Home
 
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliir7&theme=dark&hide_border=true&layout=compact"
- height="180"
- alt="Top Languages"
-/>
+Full-stack e-commerce and company platform built with Next.js, PostgreSQL and Drizzle.
 
-</p>
+🔗 https://github.com/aliir7/anima-home
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aliir7&theme=dark&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+### 🤖 AI CRM Dashboard
+
+A full-stack CRM project focused on lead management, API architecture and AI-powered workflows.
+
+🔗 https://github.com/aliir7
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=aliir7&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1"
-    alt="GitHub Trophies"
-  />
-</p>
+Instead of external stats, trophies and activity graphs, you can explore my actual work directly:
 
----
+**Repositories**
+→ https://github.com/aliir7?tab=repositories
 
-## 📈 GitHub Activity
+**Projects**
+→ https://github.com/aliir7?tab=projects
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aliir7&theme=react-dark&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
+**Profile**
+→ https://github.com/aliir7
 
 ---
 
 <p align="center">
   <i>Building, learning, and improving every day 🚀</i>
 </p>
-
-## 📫 Contact
-
-* GitHub: https://github.com/aliir7
-* Portfolio: Coming Soon
-* Email: [alirezaeii.dev@gmail.com](mailto:alirezaeii.dev@gmail.com)
-
----
-
-![](https://visitcount.itsvg.in/api?id=aliir7\&icon=0\&color=0)
