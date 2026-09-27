@@ -115,13 +115,6 @@ Full-stack e-commerce and company platform with authentication, admin dashboard,
 
 → https://github.com/aliir7/anima-home
 
-### 🤖 AI CRM Dashboard
-
-**React · TypeScript · Node.js · Express · MongoDB**
-
-A full-stack CRM application focused on lead management, REST API architecture and AI-powered workflows.
-
-→ https://github.com/aliir7
 
 ---
 
