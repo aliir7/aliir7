@@ -2,147 +2,155 @@
 
 ### Front-End Developer → Full-Stack Developer
 
-I’m a self-taught web developer focused on building **modern, scalable and user-friendly web applications** with React, Next.js and TypeScript.
+I'm a self-taught web developer passionate about building **modern, scalable, and user-friendly web applications** with React, Next.js, and TypeScript.
 
-Currently expanding my backend skills and moving toward **Full-Stack Development** through real-world projects.
+I enjoy solving real-world problems, writing maintainable code, and continuously improving my skills in frontend engineering and backend architecture.
+
+🌐 [**Visit My Personal Website**](https://www.alirezaeii.ir)
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Front-End Developer specializing in **React, Next.js & TypeScript**
-* 🏗️ Building full-stack applications with **Next.js, PostgreSQL & Drizzle ORM**
-* 🔐 Interested in secure authentication, authorization and backend architecture
-* 🌱 Currently learning **NestJS, Docker, Testing & CI/CD**
-* 🧠 Improving my knowledge of **Data Structures & Algorithms**
-* 🌍 Open to **Remote & International Opportunities**
+- 💻 Front-End Developer specializing in **React, Next.js, and TypeScript**
+- 🏗️ Building full-stack applications with **Next.js, PostgreSQL, and Drizzle ORM**
+- 🔐 Interested in authentication, authorization, security, and backend architecture
+- 🌱 Expanding my backend skills and learning **NestJS, Docker, Testing, and CI/CD**
+- 🧠 Improving my knowledge of Data Structures & Algorithms
+- 🌍 Open to remote opportunities and international collaboration
 
 ---
 
-## ⭐ Featured Project
+## 🌟 Featured Projects
+
+### 🌐 Personal Portfolio
+
+My personal website, built to present my professional profile, showcase my skills and projects, and establish my personal brand as a web developer.
+
+**Highlights**
+
+- 🎨 Personal branding and professional presentation
+- 💻 Showcase of technical skills and selected projects
+- 🌍 Persian and English language support
+- 📱 Responsive user interface
+- ⚡ Modern web development with Next.js and TypeScript
+
+**Tech Stack**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS`
+
+🔗 [**Live Website**](https://www.alirezaeii.ir)
+
+---
 
 ### 🏠 Anima Home
 
-A full-stack company website and e-commerce platform built for an interior design and cabinet business.
+A full-stack company website and e-commerce platform developed for an interior design and cabinet business.
 
 **Core Stack**
 
 `Next.js` `React` `TypeScript` `Tailwind CSS`
-`Drizzle ORM` `PostgreSQL` `Better Auth` `Zod`
+`PostgreSQL` `Drizzle ORM` `Better Auth` `Zod`
 
 **Key Features**
 
-* ⚡ Next.js App Router & Server Components
-* 🛒 Product catalog & e-commerce functionality
-* 🔐 Authentication & authorization
-* 👤 User accounts & role-based access control
-* 🛠️ Admin dashboard
-* 🗄️ PostgreSQL with Drizzle ORM
-* 🔌 Server Actions & Route Handlers
-* ✅ Server-side validation with Zod
-* 📦 Object storage for media
-* 📱 Responsive RTL/Persian UI
-* 🛡️ Security-focused backend architecture
+- ⚡ Next.js App Router and Server Components
+- 🛒 Product catalog and e-commerce functionality
+- 🔐 Authentication and authorization
+- 👤 User accounts and role-based access control
+- 🛠️ Admin dashboard and product management
+- 🗄️ PostgreSQL database with Drizzle ORM
+- 🔌 Server Actions and Route Handlers
+- ✅ Server-side validation with Zod
+- 📦 Object storage for media assets
+- 📱 Responsive Persian RTL interface
+- 🛡️ Security-focused backend architecture
 
-🔗 **Live:** https://anima-home.ir
-🔗 **Repository:** https://github.com/aliir7/anima-home
+🔗 [**Live Website**](https://anima-home.ir)
+🔗 [**GitHub Repository**](https://github.com/aliir7/anima-home)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge\&logo=shadcnui\&logoColor=white)
 
-### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
 
-### Database & ORM
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge\&logo=drizzle\&logoColor=000000)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge\&logo=mongoose\&logoColor=white)
 
-### Tools & DevOps
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+\
 
-### Libraries & Services
 
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge\&logo=zod\&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge\&logo=reacthookform\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge\&logoColor=white)
+### ⚙️ Backend
+
+
+\
+
+
+### 🗄️ Database & ORM
+
+
+
+\
+
+
+### 🧰 Tools & DevOps
+
+
+
+\
+
+
+### 📚 Libraries & Services
+
+
+
+\
+
 
 ---
 
-## 🌱 Currently Improving
+## 🌱 Currently Learning & Improving
 
 ```text
 Backend Development     █████████░░  NestJS
 Database Architecture   █████████░░  PostgreSQL
 API Development         █████████░░  REST APIs
 DevOps                  ███████░░░░  Docker & CI/CD
-Testing                 ██████░░░░░  Jest & Integration Testing
+Testing                 ██████░░░░░  Unit & Integration Testing
 Algorithms              ██████░░░░░  Data Structures & Algorithms
 English                 ██████░░░░░  B1 → B2
 ```
 
 ---
 
-## 📂 Selected Projects
+## 🎯 Career Goals
 
-### 🏠 Anima Home
+I'm looking for opportunities as a:
 
-**Next.js · TypeScript · PostgreSQL · Drizzle · Better Auth**
+- **Junior / Mid-Level Front-End Developer**
+- **Junior Full-Stack Developer**
 
-Full-stack e-commerce and company platform with authentication, admin dashboard, product management and secure backend architecture.
-
-→ https://github.com/aliir7/anima-home
-
-
----
-
-## 🎯 Career Focus
-
-I’m looking for opportunities as a:
-
-**Junior / Mid-Level Front-End Developer**
-or
-**Junior Full-Stack Developer**
-
-I’m especially interested in teams where I can work on real-world products, collaborate with experienced developers, and continue growing toward full-stack engineering.
+I'm particularly interested in teams where I can contribute to real-world products, collaborate with experienced engineers, write clean and maintainable code, and continue growing toward full-stack engineering.
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/aliir7">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.alirezaeii.ir/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+\<p align="left">
+&#x20; \<a href="[https://github.com/aliir7](https://github.com/aliir7)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />
+&#x20; \</a>
+&#x20; \<a href="[https://www.alirezaeii.ir](https://www.alirezaeii.ir)">
+&#x20;   \<img src="[https://img.shields.io/badge/Personal_Website-8B1E3F?style=for-the-badge&logo=google-chrome&logoColor=white](https://img.shields.io/badge/Personal_Website-8B1E3F?style=for-the-badge\&logo=google-chrome\&logoColor=white)" alt="Personal Website" />
+&#x20; \</a>
+\</p>
 
 ---
 
-<p align="center">
-  <i>Building real products. Learning every day. Growing toward Full-Stack Engineering. 🚀</i>
-</p>
+\<p align="center">
+&#x20; \<i>Building real products. Learning every day. Growing toward Full-Stack Engineering. 🚀\</i>
+\</p>
